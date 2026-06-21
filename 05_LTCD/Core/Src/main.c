@@ -19,7 +19,6 @@
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 #include "dma2d.h"
-#include "fonts.h"
 #include "ltdc.h"
 #include "usart.h"
 #include "gpio.h"
@@ -134,9 +133,9 @@ int main(void)
       HAL_Delay(1000);
     }
       
-      /* USER CODE END WHILE */
+    /* USER CODE END WHILE */
 
-      /* USER CODE BEGIN 3 */
+    /* USER CODE BEGIN 3 */
     }
   /* USER CODE END 3 */
 }
