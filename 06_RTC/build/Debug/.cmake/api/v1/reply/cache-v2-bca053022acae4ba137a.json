@@ -1255,10 +1255,10 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "The CMake toolchain file"
 				}
 			],
-			"type" : "UNINITIALIZED",
+			"type" : "FILEPATH",
 			"value" : "D:/CodeGitManage/STM32HAL_Projects/Project_Template/06_RTC/cmake/gcc-arm-none-eabi.cmake"
 		},
 		{
