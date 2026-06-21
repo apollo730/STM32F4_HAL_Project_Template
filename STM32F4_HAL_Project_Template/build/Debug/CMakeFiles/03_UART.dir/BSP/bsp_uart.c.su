@@ -1,4 +1,0 @@
-D:/CodeGitManage/STM32HAL_Projects/Project_Template/STM32F4_HAL_Project_Template/BSP/bsp_uart.c:8:19:BSP_UART_TransmitByte	16	static
-D:/CodeGitManage/STM32HAL_Projects/Project_Template/STM32F4_HAL_Project_Template/BSP/bsp_uart.c:26:19:BSP_UART_Transmit	24	static
-D:/CodeGitManage/STM32HAL_Projects/Project_Template/STM32F4_HAL_Project_Template/BSP/bsp_uart.c:45:19:BSP_UART_ReceiveByte	16	static
-D:/CodeGitManage/STM32HAL_Projects/Project_Template/STM32F4_HAL_Project_Template/BSP/bsp_uart.c:65:19:BSP_UART_Receive	24	static

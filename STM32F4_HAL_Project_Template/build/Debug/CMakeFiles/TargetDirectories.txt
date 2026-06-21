@@ -1,6 +1,0 @@
-D:/CodeGitManage/STM32HAL_Projects/Project_Template/STM32F4_HAL_Project_Template/build/Debug/CMakeFiles/03_UART.dir
-D:/CodeGitManage/STM32HAL_Projects/Project_Template/STM32F4_HAL_Project_Template/build/Debug/CMakeFiles/edit_cache.dir
-D:/CodeGitManage/STM32HAL_Projects/Project_Template/STM32F4_HAL_Project_Template/build/Debug/CMakeFiles/rebuild_cache.dir
-D:/CodeGitManage/STM32HAL_Projects/Project_Template/STM32F4_HAL_Project_Template/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
-D:/CodeGitManage/STM32HAL_Projects/Project_Template/STM32F4_HAL_Project_Template/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
-D:/CodeGitManage/STM32HAL_Projects/Project_Template/STM32F4_HAL_Project_Template/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

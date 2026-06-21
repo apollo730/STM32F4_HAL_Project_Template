@@ -1,4 +1,0 @@
-D:/CodeGitManage/STM32HAL_Projects/Project_Template/STM32F4_HAL_Project_Template/Core/Src/main.c:71:5:main	48	static
-D:/CodeGitManage/STM32HAL_Projects/Project_Template/STM32F4_HAL_Project_Template/Core/Src/main.c:131:6:SystemClock_Config	88	static
-D:/CodeGitManage/STM32HAL_Projects/Project_Template/STM32F4_HAL_Project_Template/Core/Src/main.c:186:6:Error_Handler	4	static,ignoring_inline_asm
-D:/CodeGitManage/STM32HAL_Projects/Project_Template/STM32F4_HAL_Project_Template/Core/Src/main.c:204:6:assert_failed	16	static
