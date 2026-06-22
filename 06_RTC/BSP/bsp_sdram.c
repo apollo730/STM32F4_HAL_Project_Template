@@ -35,8 +35,6 @@ HAL_StatusTypeDef SDRAM_Initialization_Sequence(SDRAM_HandleTypeDef *hsdram)
                                   SDRAM_MODEREG_WRITEBURST_MODE_SINGLE; // WB=1 (single write after burst read)       
     HAL_SDRAM_SendCommand(hsdram, &cmd, 0xFFFF);
 
-    
-
     // 步骤5: 设置自动刷新速率
     HAL_SDRAM_SetAutoRefreshNumber(hsdram, SDRAM_REFRESH_COUNT);
     

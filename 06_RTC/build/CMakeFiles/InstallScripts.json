@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/CodeGitManage/Project_Template/06_RTC/build/cmake_install.cmake",
+		"D:/CodeGitManage/Project_Template/06_RTC/build/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

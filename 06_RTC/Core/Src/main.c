@@ -30,6 +30,7 @@
 #include "bsp_config.h"
 #include "bsp_lcd.h"
 #include <stdint.h>
+#include <stdio.h>
 #include <string.h>
 
 /* USER CODE END Includes */
@@ -111,7 +112,15 @@ int main(void)
 
   BSP_LCD_FillForeground(COLOR_BLACK);
   BSP_LCD_SetActiveLayer(LCD_LAYER_FG);
-  BSP_LCD_Printf(0, 0, COLOR_RED, COLOR_BLACK, &Font24, "LCD Printf Test");
+
+  BSP_LCD_SetCursor(400, 200);
+  BSP_LCD_SetColor(COLOR_RED);
+  BSP_LCD_SetFont(&Font16);
+  BSP_LCD_Printf("LCD Printf Test");
+
+
+  // printf("hello world\n");
+  // printf("this is a test string.\n");
   RTC_TimeTypeDef RTC_Time = {0};
   RTC_DateTypeDef RTC_Date = {0}; // 必须定义日期结构体
 
@@ -125,13 +134,15 @@ int main(void)
     // 读取RTC时间
     HAL_RTC_GetTime(&hrtc, &RTC_Time, RTC_FORMAT_BIN);
     HAL_RTC_GetDate(&hrtc, &RTC_Date, RTC_FORMAT_BIN);
-
     // 显示RTC时间
-    BSP_LCD_SetActiveLayer(LCD_LAYER_FG);
-    BSP_LCD_Printf(18, 50, COLOR_RED, COLOR_BLACK, &Font24, "Time: %02d:%02d:%02d", RTC_Time.Hours, RTC_Time.Minutes,
-                   RTC_Time.Seconds);
-    BSP_LCD_Printf(18, 100, COLOR_GREEN, COLOR_BLACK, &Font24, "Date: 20%02d-%02d-%02d", RTC_Date.Year, RTC_Date.Month,
-                   RTC_Date.Date);
+    BSP_LCD_SetCursor(18, 50);
+    BSP_LCD_SetColor(COLOR_RED);
+    BSP_LCD_SetFont(&Font24);
+    BSP_LCD_Printf("Time: %02d:%02d:%02d", RTC_Time.Hours, RTC_Time.Minutes, RTC_Time.Seconds);
+
+    BSP_LCD_SetCursor(18, 100);
+    BSP_LCD_SetColor(COLOR_GREEN);
+    BSP_LCD_Printf("Date: 20%02d-%02d-%02d", RTC_Date.Year, RTC_Date.Month, RTC_Date.Date);
     HAL_Delay(1000);
   }
 
