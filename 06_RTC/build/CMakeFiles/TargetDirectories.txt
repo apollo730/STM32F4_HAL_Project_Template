@@ -1,6 +1,6 @@
-D:/CodeGitManage/Project_Template/06_RTC/build/CMakeFiles/06_RTC.dir
-D:/CodeGitManage/Project_Template/06_RTC/build/CMakeFiles/edit_cache.dir
-D:/CodeGitManage/Project_Template/06_RTC/build/CMakeFiles/rebuild_cache.dir
-D:/CodeGitManage/Project_Template/06_RTC/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
-D:/CodeGitManage/Project_Template/06_RTC/build/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
-D:/CodeGitManage/Project_Template/06_RTC/build/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
+D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/CMakeFiles/06_RTC.dir
+D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/CMakeFiles/edit_cache.dir
+D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/CMakeFiles/rebuild_cache.dir
+D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

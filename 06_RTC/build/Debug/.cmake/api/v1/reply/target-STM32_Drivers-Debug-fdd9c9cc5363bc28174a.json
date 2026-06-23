@@ -139,7 +139,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : " -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11"
+					"fragment" : " -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11"
 				}
 			],
 			"defines" : 
@@ -161,23 +161,23 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "D:/CodeGitManage/Project_Template/06_RTC/cmake/stm32cubemx/../../Core/Inc"
+					"path" : "D:/CodeGitManage/STM32HAL_Projects/06_RTC/cmake/stm32cubemx/../../Core/Inc"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/CodeGitManage/Project_Template/06_RTC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "D:/CodeGitManage/STM32HAL_Projects/06_RTC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/CodeGitManage/Project_Template/06_RTC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "D:/CodeGitManage/STM32HAL_Projects/06_RTC/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/CodeGitManage/Project_Template/06_RTC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "D:/CodeGitManage/STM32HAL_Projects/06_RTC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/CodeGitManage/Project_Template/06_RTC/cmake/stm32cubemx/../../Drivers/CMSIS/Include"
+					"path" : "D:/CodeGitManage/STM32HAL_Projects/06_RTC/cmake/stm32cubemx/../../Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "C",

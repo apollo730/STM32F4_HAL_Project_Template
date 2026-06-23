@@ -34,6 +34,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -51,7 +52,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/ninja-build.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/ninja-build.exe"
@@ -74,6 +74,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -118,6 +119,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -135,7 +137,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/arm-none-eabi-gcc.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/arm-none-eabi-gcc.exe"
@@ -152,6 +153,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -204,6 +206,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -298,6 +301,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -340,7 +344,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.su"
       
       The C compiler identification is GNU, found in:
-        D:/CodeGitManage/Project_Template/06_RTC/build/CMakeFiles/4.3.1/CompilerIdC/CMakeCCompilerId.o
+        D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/CMakeFiles/4.3.1/CompilerIdC/CMakeCCompilerId.o
       
   -
     kind: "find-v1"
@@ -367,6 +371,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -384,7 +389,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-g++.com"
     found: "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-g++.exe"
@@ -395,6 +399,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -440,6 +445,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -457,7 +463,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-ar.com"
     found: "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-ar.exe"
@@ -468,6 +473,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -513,6 +519,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -530,7 +537,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-ranlib.com"
     found: "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-ranlib.exe"
@@ -541,6 +547,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -586,6 +593,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -603,7 +611,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-strip.com"
     found: "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-strip.exe"
@@ -614,6 +621,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -659,6 +667,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -676,7 +685,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-nm.com"
     found: "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-nm.exe"
@@ -687,6 +695,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -732,6 +741,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -749,7 +759,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-objdump.com"
     found: "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-objdump.exe"
@@ -760,6 +769,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -805,6 +815,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -822,7 +833,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-readelf.com"
     found: "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-readelf.exe"
@@ -833,6 +843,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -878,6 +889,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -895,7 +907,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-dlltool.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-dlltool.exe"
@@ -909,6 +920,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-dlltool.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-dlltool.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-dlltool"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-dlltool.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-dlltool.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-dlltool"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-dlltool.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-dlltool.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-dlltool"
@@ -960,9 +974,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-dlltool.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-dlltool.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-dlltool"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-dlltool.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-dlltool.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-dlltool"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/dlltool.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/dlltool.exe"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/dlltool"
@@ -975,6 +986,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/dlltool.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/dlltool.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/dlltool"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/dlltool.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/dlltool.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/dlltool"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/dlltool.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/dlltool.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/dlltool"
@@ -1026,9 +1040,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/dlltool.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/dlltool.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/dlltool"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/dlltool.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/dlltool.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/dlltool"
     found: false
     search_context:
       ENV{PATH}:
@@ -1037,6 +1048,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -1082,6 +1094,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -1099,7 +1112,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-addr2line.com"
     found: "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-addr2line.exe"
@@ -1110,6 +1122,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -1155,6 +1168,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -1172,7 +1186,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-tapi.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-tapi.exe"
@@ -1186,6 +1199,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-tapi.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-tapi.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-tapi"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-tapi.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-tapi.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-tapi"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-tapi.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-tapi.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-tapi"
@@ -1237,9 +1253,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-tapi.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-tapi.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-tapi"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-tapi.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-tapi.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-tapi"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/tapi.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/tapi.exe"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/tapi"
@@ -1252,6 +1265,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/tapi.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/tapi.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/tapi"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/tapi.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/tapi.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/tapi"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/tapi.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/tapi.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/tapi"
@@ -1303,9 +1319,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/tapi.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/tapi.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/tapi"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/tapi.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/tapi.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/tapi"
     found: false
     search_context:
       ENV{PATH}:
@@ -1314,6 +1327,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -1361,6 +1375,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -1378,7 +1393,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar-14.3.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar-14.3.exe"
@@ -1392,6 +1406,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-14.3.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-14.3.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-14.3"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.3.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.3.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.3"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-14.3.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-14.3.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-14.3"
@@ -1443,9 +1460,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-14.3.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-14.3.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-14.3"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.3.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.3.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.3"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar-14.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar-14.exe"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar-14"
@@ -1458,6 +1472,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-14.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-14.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-14"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-14.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-14.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-14"
@@ -1509,9 +1526,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-14.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-14.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-14"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar14.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar14.exe"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar14"
@@ -1524,6 +1538,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar14.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar14.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar14"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar14.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar14.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar14"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar14.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar14.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar14"
@@ -1575,9 +1592,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar14.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar14.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar14"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar14.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar14.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar14"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar.com"
     found: "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar.exe"
     search_context:
@@ -1587,6 +1601,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -1634,6 +1649,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -1651,7 +1667,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib-14.3.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib-14.3.exe"
@@ -1665,6 +1680,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-14.3.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-14.3.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-14.3"
@@ -1716,9 +1734,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-14.3.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-14.3.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-14.3"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib-14.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib-14.exe"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib-14"
@@ -1731,6 +1746,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-14.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-14.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-14"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-14.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-14.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-14"
@@ -1782,9 +1800,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-14.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-14.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-14"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib14.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib14.exe"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib14"
@@ -1797,6 +1812,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib14.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib14.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib14"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib14.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib14.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib14"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib14.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib14.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib14"
@@ -1848,9 +1866,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib14.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib14.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib14"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib14.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib14.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib14"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib.com"
     found: "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib.exe"
     search_context:
@@ -1860,6 +1875,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -1904,6 +1920,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -1921,7 +1938,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/arm-none-eabi-g++.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/arm-none-eabi-g++.exe"
@@ -1938,6 +1954,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -1990,6 +2007,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -2084,6 +2102,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -2126,7 +2145,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.su"
       
       The CXX compiler identification is GNU, found in:
-        D:/CodeGitManage/Project_Template/06_RTC/build/CMakeFiles/4.3.1/CompilerIdCXX/CMakeCXXCompilerId.o
+        D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/CMakeFiles/4.3.1/CompilerIdCXX/CMakeCXXCompilerId.o
       
   -
     kind: "find-v1"
@@ -2155,6 +2174,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -2172,7 +2192,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar-14.3.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar-14.3.exe"
@@ -2186,6 +2205,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-14.3.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-14.3.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-14.3"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.3.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.3.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.3"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-14.3.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-14.3.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-14.3"
@@ -2237,9 +2259,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-14.3.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-14.3.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-14.3"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.3.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.3.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.3"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar-14.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar-14.exe"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar-14"
@@ -2252,6 +2271,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-14.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-14.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-14"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-14.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-14.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-14"
@@ -2303,9 +2325,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-14.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-14.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-14"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-14"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar14.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar14.exe"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar14"
@@ -2318,6 +2337,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar14.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar14.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar14"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar14.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar14.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar14"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar14.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar14.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar14"
@@ -2369,9 +2391,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar14.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar14.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar14"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar14.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar14.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar14"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar.com"
     found: "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar.exe"
     search_context:
@@ -2381,6 +2400,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -2428,6 +2448,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -2445,7 +2466,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib-14.3.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib-14.3.exe"
@@ -2459,6 +2479,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-14.3.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-14.3.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-14.3"
@@ -2510,9 +2533,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-14.3.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-14.3.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-14.3"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.3"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib-14.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib-14.exe"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib-14"
@@ -2525,6 +2545,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-14.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-14.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-14"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-14.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-14.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-14"
@@ -2576,9 +2599,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-14.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-14.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-14"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-14"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib14.com"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib14.exe"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib14"
@@ -2591,6 +2611,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib14.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib14.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib14"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib14.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib14.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib14"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib14.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib14.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib14"
@@ -2642,9 +2665,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib14.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib14.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib14"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib14.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib14.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib14"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib.com"
     found: "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib.exe"
     search_context:
@@ -2654,6 +2674,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -2683,21 +2704,21 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/CodeGitManage/Project_Template/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-90bxmq"
-      binary: "D:/CodeGitManage/Project_Template/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-90bxmq"
+      source: "D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-7q4qjb"
+      binary: "D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-7q4qjb"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: " -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage"
       CMAKE_C_FLAGS_DEBUG: "-O0 -g3"
-      CMAKE_EXE_LINKER_FLAGS: "-mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -T \"D:/CodeGitManage/Project_Template/06_RTC/STM32F429XX_FLASH.ld\" --specs=nano.specs -Wl,-Map=06_RTC.map -Wl,--gc-sections -Wl,--print-memory-usage"
+      CMAKE_EXE_LINKER_FLAGS: "-mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -T \"D:/CodeGitManage/STM32HAL_Projects/06_RTC/STM32F429XX_FLASH.ld\" --specs=nano.specs -Wl,-Map=06_RTC.map -Wl,--gc-sections -Wl,--print-memory-usage"
     buildResult:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/CodeGitManage/Project_Template/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-90bxmq'
+        Change Dir: 'D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-7q4qjb'
         
-        Run Build Command(s): C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/ninja.exe -v cmTC_86095
-        [1/2] C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe   -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage  -std=gnu11   -v -o CMakeFiles/cmTC_86095.dir/CMakeCCompilerABI.c.obj -c C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/ninja.exe -v cmTC_e4be9
+        [1/2] C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe   -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage  -std=gnu11   -v -o CMakeFiles/cmTC_e4be9.dir/CMakeCCompilerABI.c.obj -c C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe
         Target: arm-none-eabi
@@ -2705,8 +2726,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 14.3.1 20250623 (GNU Tools for STM32 14.3.rel1.20251027-0700) 
-        COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_86095.dir/CMakeCCompilerABI.c.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_86095.dir/'
-         C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/cc1.exe -quiet -v -imultilib thumb/v7e-m+fp/hard -iprefix C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../lib/gcc/arm-none-eabi/14.3.1/ -isysroot C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_86095.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -mlibarch=armv7e-m+fp -march=armv7e-m+fp -Wall -std=gnu11 -version -fstack-usage -fdata-sections -ffunction-sections -fstack-usage -o C:\\Users\\ASUS\\AppData\\Local\\Temp\\ccLaFGnX.s
+        COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_e4be9.dir/CMakeCCompilerABI.c.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_e4be9.dir/'
+         C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/cc1.exe -quiet -v -imultilib thumb/v7e-m+fp/hard -iprefix C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../lib/gcc/arm-none-eabi/14.3.1/ -isysroot C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_e4be9.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -mlibarch=armv7e-m+fp -march=armv7e-m+fp -Wall -std=gnu11 -version -fstack-usage -fdata-sections -ffunction-sections -fstack-usage -o C:\\Users\\ASUS\\AppData\\Local\\Temp\\ccacmvoQ.s
         GNU C11 (GNU Tools for STM32 14.3.rel1.20251027-0700) version 14.3.1 20250623 (arm-none-eabi)
         	compiled by GNU C version 7.3-win32 20180312, GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
         
@@ -2723,13 +2744,13 @@ events:
          C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/lib/gcc/../../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/include
         End of search list.
         Compiler executable checksum: 6ff0de7787db02762f469a6076f3ba78
-        COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_86095.dir/CMakeCCompilerABI.c.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_86095.dir/'
-         C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m+fp -mfloat-abi=hard -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mfpu=fpv4-sp-d16 -meabi=5 -o CMakeFiles/cmTC_86095.dir/CMakeCCompilerABI.c.obj C:\\Users\\ASUS\\AppData\\Local\\Temp\\ccLaFGnX.s
+        COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_e4be9.dir/CMakeCCompilerABI.c.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_e4be9.dir/'
+         C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m+fp -mfloat-abi=hard -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mfpu=fpv4-sp-d16 -meabi=5 -o CMakeFiles/cmTC_e4be9.dir/CMakeCCompilerABI.c.obj C:\\Users\\ASUS\\AppData\\Local\\Temp\\ccacmvoQ.s
         GNU assembler version 2.44.0 (arm-none-eabi) using BFD version (GNU Tools for STM32 14.3.rel1.20251027-0700) 2.44.0.20250616
         COMPILER_PATH=C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../arm-none-eabi/lib/thumb/v7e-m+fp/hard/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_86095.dir/CMakeCCompilerABI.c.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_86095.dir/CMakeCCompilerABI.c.'
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\cmake\\4.3.1+st.1\\bin\\cmake.exe -E rm -f libcmTC_86095.a && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ar.exe qc libcmTC_86095.a  CMakeFiles/cmTC_86095.dir/CMakeCCompilerABI.c.obj && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ranlib.exe libcmTC_86095.a && cd ."
+        COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_e4be9.dir/CMakeCCompilerABI.c.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_e4be9.dir/CMakeCCompilerABI.c.'
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\cmake\\4.3.1+st.1\\bin\\cmake.exe -E rm -f libcmTC_e4be9.a && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ar.exe qc libcmTC_e4be9.a  CMakeFiles/cmTC_e4be9.dir/CMakeCCompilerABI.c.obj && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ranlib.exe libcmTC_e4be9.a && cd ."
         
       exitCode: 0
   -
@@ -2768,10 +2789,10 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(arm-none-eabi-g\\+\\+\\.exe|;ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(arm-none-eabi-g\\+\\+\\.exe|;ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'D:/CodeGitManage/Project_Template/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-90bxmq']
+        ignore line: [Change Dir: 'D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-7q4qjb']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/ninja.exe -v cmTC_86095]
-        ignore line: [[1/2] C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe   -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage  -std=gnu11   -v -o CMakeFiles/cmTC_86095.dir/CMakeCCompilerABI.c.obj -c C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/ninja.exe -v cmTC_e4be9]
+        ignore line: [[1/2] C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe   -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage  -std=gnu11   -v -o CMakeFiles/cmTC_e4be9.dir/CMakeCCompilerABI.c.obj -c C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe]
         ignore line: [Target: arm-none-eabi]
@@ -2779,8 +2800,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 14.3.1 20250623 (GNU Tools for STM32 14.3.rel1.20251027-0700) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_86095.dir/CMakeCCompilerABI.c.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_86095.dir/']
-        ignore line: [ C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/cc1.exe -quiet -v -imultilib thumb/v7e-m+fp/hard -iprefix C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../lib/gcc/arm-none-eabi/14.3.1/ -isysroot C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_86095.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -mlibarch=armv7e-m+fp -march=armv7e-m+fp -Wall -std=gnu11 -version -fstack-usage -fdata-sections -ffunction-sections -fstack-usage -o C:\\Users\\ASUS\\AppData\\Local\\Temp\\ccLaFGnX.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_e4be9.dir/CMakeCCompilerABI.c.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_e4be9.dir/']
+        ignore line: [ C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/cc1.exe -quiet -v -imultilib thumb/v7e-m+fp/hard -iprefix C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../lib/gcc/arm-none-eabi/14.3.1/ -isysroot C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_e4be9.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -mlibarch=armv7e-m+fp -march=armv7e-m+fp -Wall -std=gnu11 -version -fstack-usage -fdata-sections -ffunction-sections -fstack-usage -o C:\\Users\\ASUS\\AppData\\Local\\Temp\\ccacmvoQ.s]
         ignore line: [GNU C11 (GNU Tools for STM32 14.3.rel1.20251027-0700) version 14.3.1 20250623 (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 7.3-win32 20180312  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
         ignore line: []
@@ -2797,8 +2818,8 @@ events:
         ignore line: [ C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/lib/gcc/../../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 6ff0de7787db02762f469a6076f3ba78]
-        ignore line: [COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_86095.dir/CMakeCCompilerABI.c.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_86095.dir/']
-        ignore line: [ C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m+fp -mfloat-abi=hard -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mfpu=fpv4-sp-d16 -meabi=5 -o CMakeFiles/cmTC_86095.dir/CMakeCCompilerABI.c.obj C:\\Users\\ASUS\\AppData\\Local\\Temp\\ccLaFGnX.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_e4be9.dir/CMakeCCompilerABI.c.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_e4be9.dir/']
+        ignore line: [ C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m+fp -mfloat-abi=hard -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mfpu=fpv4-sp-d16 -meabi=5 -o CMakeFiles/cmTC_e4be9.dir/CMakeCCompilerABI.c.obj C:\\Users\\ASUS\\AppData\\Local\\Temp\\ccacmvoQ.s]
         ignore line: [GNU assembler version 2.44.0 (arm-none-eabi) using BFD version (GNU Tools for STM32 14.3.rel1.20251027-0700) 2.44.0.20250616]
         ignore line: [COMPILER_PATH=C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/]
         ignore line: [C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/]
@@ -2810,8 +2831,8 @@ events:
         ignore line: [C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/]
         ignore line: [C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/]
         ignore line: [C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_86095.dir/CMakeCCompilerABI.c.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_86095.dir/CMakeCCompilerABI.c.']
-        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\cmake\\4.3.1+st.1\\bin\\cmake.exe -E rm -f libcmTC_86095.a && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ar.exe qc libcmTC_86095.a  CMakeFiles/cmTC_86095.dir/CMakeCCompilerABI.c.obj && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ranlib.exe libcmTC_86095.a && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_e4be9.dir/CMakeCCompilerABI.c.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_e4be9.dir/CMakeCCompilerABI.c.']
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\cmake\\4.3.1+st.1\\bin\\cmake.exe -E rm -f libcmTC_e4be9.a && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ar.exe qc libcmTC_e4be9.a  CMakeFiles/cmTC_e4be9.dir/CMakeCCompilerABI.c.obj && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ranlib.exe libcmTC_e4be9.a && cd ."]
         ignore line: []
         ignore line: []
         implicit libs: []
@@ -2829,22 +2850,22 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/CodeGitManage/Project_Template/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-ocw8f1"
-      binary: "D:/CodeGitManage/Project_Template/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-ocw8f1"
+      source: "D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-1qgrf2"
+      binary: "D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-1qgrf2"
     cmakeVariables:
       CMAKE_CXX_FLAGS: " -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics"
       CMAKE_CXX_FLAGS_DEBUG: "-O0 -g3"
       CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
-      CMAKE_EXE_LINKER_FLAGS: "-mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -T \"D:/CodeGitManage/Project_Template/06_RTC/STM32F429XX_FLASH.ld\" --specs=nano.specs -Wl,-Map=06_RTC.map -Wl,--gc-sections -Wl,--print-memory-usage"
+      CMAKE_EXE_LINKER_FLAGS: "-mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -T \"D:/CodeGitManage/STM32HAL_Projects/06_RTC/STM32F429XX_FLASH.ld\" --specs=nano.specs -Wl,-Map=06_RTC.map -Wl,--gc-sections -Wl,--print-memory-usage"
     buildResult:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/CodeGitManage/Project_Template/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-ocw8f1'
+        Change Dir: 'D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-1qgrf2'
         
-        Run Build Command(s): C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/ninja.exe -v cmTC_1cda1
-        [1/2] C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-g++.exe   -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics    -v -o CMakeFiles/cmTC_1cda1.dir/CMakeCXXCompilerABI.cpp.obj -c C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/ninja.exe -v cmTC_8f00a
+        [1/2] C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-g++.exe   -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics    -v -o CMakeFiles/cmTC_8f00a.dir/CMakeCXXCompilerABI.cpp.obj -c C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-g++.exe
         Target: arm-none-eabi
@@ -2852,8 +2873,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 14.3.1 20250623 (GNU Tools for STM32 14.3.rel1.20251027-0700) 
-        COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_1cda1.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_1cda1.dir/'
-         C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/cc1plus.exe -quiet -v -imultilib thumb/v7e-m+fp/hard -iprefix C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../lib/gcc/arm-none-eabi/14.3.1/ -isysroot C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_1cda1.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -mlibarch=armv7e-m+fp -march=armv7e-m+fp -Wall -version -fstack-usage -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics -o C:\\Users\\ASUS\\AppData\\Local\\Temp\\cctbU746.s
+        COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_8f00a.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_8f00a.dir/'
+         C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/cc1plus.exe -quiet -v -imultilib thumb/v7e-m+fp/hard -iprefix C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../lib/gcc/arm-none-eabi/14.3.1/ -isysroot C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_8f00a.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -mlibarch=armv7e-m+fp -march=armv7e-m+fp -Wall -version -fstack-usage -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics -o C:\\Users\\ASUS\\AppData\\Local\\Temp\\ccMbGWe5.s
         GNU C++17 (GNU Tools for STM32 14.3.rel1.20251027-0700) version 14.3.1 20250623 (arm-none-eabi)
         	compiled by GNU C version 7.3-win32 20180312, GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
         
@@ -2876,13 +2897,13 @@ events:
          C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/lib/gcc/../../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/include
         End of search list.
         Compiler executable checksum: 43d99ff7460098f9cee06aa2d6324907
-        COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_1cda1.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_1cda1.dir/'
-         C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m+fp -mfloat-abi=hard -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mfpu=fpv4-sp-d16 -meabi=5 -o CMakeFiles/cmTC_1cda1.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\ASUS\\AppData\\Local\\Temp\\cctbU746.s
+        COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_8f00a.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_8f00a.dir/'
+         C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m+fp -mfloat-abi=hard -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mfpu=fpv4-sp-d16 -meabi=5 -o CMakeFiles/cmTC_8f00a.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\ASUS\\AppData\\Local\\Temp\\ccMbGWe5.s
         GNU assembler version 2.44.0 (arm-none-eabi) using BFD version (GNU Tools for STM32 14.3.rel1.20251027-0700) 2.44.0.20250616
         COMPILER_PATH=C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m+fp/hard/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../arm-none-eabi/lib/thumb/v7e-m+fp/hard/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/;C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_1cda1.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_1cda1.dir/CMakeCXXCompilerABI.cpp.'
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\cmake\\4.3.1+st.1\\bin\\cmake.exe -E rm -f libcmTC_1cda1.a && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ar.exe qc libcmTC_1cda1.a  CMakeFiles/cmTC_1cda1.dir/CMakeCXXCompilerABI.cpp.obj && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ranlib.exe libcmTC_1cda1.a && cd ."
+        COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_8f00a.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_8f00a.dir/CMakeCXXCompilerABI.cpp.'
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\cmake\\4.3.1+st.1\\bin\\cmake.exe -E rm -f libcmTC_8f00a.a && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ar.exe qc libcmTC_8f00a.a  CMakeFiles/cmTC_8f00a.dir/CMakeCXXCompilerABI.cpp.obj && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ranlib.exe libcmTC_8f00a.a && cd ."
         
       exitCode: 0
   -
@@ -2933,10 +2954,10 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(arm-none-eabi-g\\+\\+\\.exe|;ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(arm-none-eabi-g\\+\\+\\.exe|;ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'D:/CodeGitManage/Project_Template/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-ocw8f1']
+        ignore line: [Change Dir: 'D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/CMakeFiles/CMakeScratch/TryCompile-1qgrf2']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/ninja.exe -v cmTC_1cda1]
-        ignore line: [[1/2] C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-g++.exe   -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics    -v -o CMakeFiles/cmTC_1cda1.dir/CMakeCXXCompilerABI.cpp.obj -c C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/ninja.exe -v cmTC_8f00a]
+        ignore line: [[1/2] C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-g++.exe   -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics    -v -o CMakeFiles/cmTC_8f00a.dir/CMakeCXXCompilerABI.cpp.obj -c C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-g++.exe]
         ignore line: [Target: arm-none-eabi]
@@ -2944,8 +2965,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 14.3.1 20250623 (GNU Tools for STM32 14.3.rel1.20251027-0700) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_1cda1.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_1cda1.dir/']
-        ignore line: [ C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/cc1plus.exe -quiet -v -imultilib thumb/v7e-m+fp/hard -iprefix C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../lib/gcc/arm-none-eabi/14.3.1/ -isysroot C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_1cda1.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -mlibarch=armv7e-m+fp -march=armv7e-m+fp -Wall -version -fstack-usage -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics -o C:\\Users\\ASUS\\AppData\\Local\\Temp\\cctbU746.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_8f00a.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_8f00a.dir/']
+        ignore line: [ C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/cc1plus.exe -quiet -v -imultilib thumb/v7e-m+fp/hard -iprefix C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../lib/gcc/arm-none-eabi/14.3.1/ -isysroot C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/share/cmake-4.3/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_8f00a.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -mlibarch=armv7e-m+fp -march=armv7e-m+fp -Wall -version -fstack-usage -fdata-sections -ffunction-sections -fstack-usage -fno-rtti -fno-exceptions -fno-threadsafe-statics -o C:\\Users\\ASUS\\AppData\\Local\\Temp\\ccMbGWe5.s]
         ignore line: [GNU C++17 (GNU Tools for STM32 14.3.rel1.20251027-0700) version 14.3.1 20250623 (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 7.3-win32 20180312  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
         ignore line: []
@@ -2968,8 +2989,8 @@ events:
         ignore line: [ C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/lib/gcc/../../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 43d99ff7460098f9cee06aa2d6324907]
-        ignore line: [COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_1cda1.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_1cda1.dir/']
-        ignore line: [ C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m+fp -mfloat-abi=hard -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mfpu=fpv4-sp-d16 -meabi=5 -o CMakeFiles/cmTC_1cda1.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\ASUS\\AppData\\Local\\Temp\\cctbU746.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_8f00a.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_8f00a.dir/']
+        ignore line: [ C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m+fp -mfloat-abi=hard -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mfpu=fpv4-sp-d16 -meabi=5 -o CMakeFiles/cmTC_8f00a.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\ASUS\\AppData\\Local\\Temp\\ccMbGWe5.s]
         ignore line: [GNU assembler version 2.44.0 (arm-none-eabi) using BFD version (GNU Tools for STM32 14.3.rel1.20251027-0700) 2.44.0.20250616]
         ignore line: [COMPILER_PATH=C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/]
         ignore line: [C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/]
@@ -2981,8 +3002,8 @@ events:
         ignore line: [C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/]
         ignore line: [C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/]
         ignore line: [C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_1cda1.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_1cda1.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\cmake\\4.3.1+st.1\\bin\\cmake.exe -E rm -f libcmTC_1cda1.a && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ar.exe qc libcmTC_1cda1.a  CMakeFiles/cmTC_1cda1.dir/CMakeCXXCompilerABI.cpp.obj && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ranlib.exe libcmTC_1cda1.a && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-fstack-usage' '-mcpu=cortex-m4' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-Wall' '-fdata-sections' '-ffunction-sections' '-fstack-usage' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_8f00a.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mthumb' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_8f00a.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\cmake\\4.3.1+st.1\\bin\\cmake.exe -E rm -f libcmTC_8f00a.a && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ar.exe qc libcmTC_8f00a.a  CMakeFiles/cmTC_8f00a.dir/CMakeCXXCompilerABI.cpp.obj && C:\\Users\\ASUS\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-ranlib.exe libcmTC_8f00a.a && cd ."]
         ignore line: []
         ignore line: []
         linker tool for 'CXX': [1/2] C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-g++.exe
@@ -3046,6 +3067,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -3063,7 +3085,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "/bin/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/arm-none-eabi-gcc.com"
@@ -3081,6 +3102,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -3144,6 +3166,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -3161,7 +3184,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "/bin/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ar-.com"
@@ -3176,6 +3198,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-"
@@ -3227,9 +3252,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-"
       - "/bin/arm-none-eabi-gcc-ar-.com"
       - "/bin/arm-none-eabi-gcc-ar-.exe"
       - "/bin/arm-none-eabi-gcc-ar-"
@@ -3245,6 +3267,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ar-"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ar-"
@@ -3296,9 +3321,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ar-"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ar-"
       - "/bin/arm-none-eabi-gcc-ar-.com"
       - "/bin/arm-none-eabi-gcc-ar-.exe"
       - "/bin/arm-none-eabi-gcc-ar-"
@@ -3311,6 +3333,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -3361,6 +3384,7 @@ events:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin/"
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/ninja/1.13.2+st.1/bin/"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -3378,7 +3402,6 @@ events:
       - "C:/Users/ASUS/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ASUS/.dotnet/tools/"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/"
       - "/bin/"
     searched_directories:
       - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc-ranlib-.com"
@@ -3393,6 +3416,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-"
@@ -3444,9 +3470,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-"
       - "/bin/arm-none-eabi-gcc-ranlib-.com"
       - "/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "/bin/arm-none-eabi-gcc-ranlib-"
@@ -3462,6 +3485,9 @@ events:
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64/resources/binaries/win32/x86_64/arm-none-eabi-gcc-ranlib-"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-.com"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-.exe"
+      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-.com"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/Program Files/VMware/VMware Workstation17_6_4/bin/arm-none-eabi-gcc-ranlib-"
@@ -3513,9 +3539,6 @@ events:
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-.com"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/Program Files/Microsoft VS Code/VSCode/bin/arm-none-eabi-gcc-ranlib-"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-.com"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-.exe"
-      - "C:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64/arm-none-eabi-gcc-ranlib-"
       - "/bin/arm-none-eabi-gcc-ranlib-.com"
       - "/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "/bin/arm-none-eabi-gcc-ranlib-"
@@ -3528,6 +3551,7 @@ events:
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin"
         - "C:/Users/ASUS/AppData/Local/stm32cube/bundles/cmake/4.3.1+st.1/bin"
         - "c:\\Users\\ASUS\\.vscode\\extensions\\stmicroelectronics.stm32cube-ide-core-1.3.0-win32-x64\\resources\\binaries\\win32\\x86_64"
+        - "c:/Users/ASUS/.vscode/extensions/stmicroelectronics.stm32cube-ide-build-cmake-1.45.0-win32-x64/resources/cube-cmake/win32/x86_64"
         - "D:\\Program Files\\VMware\\VMware Workstation17_6_4\\bin\\"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"

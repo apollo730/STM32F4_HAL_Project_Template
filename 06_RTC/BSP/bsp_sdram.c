@@ -28,7 +28,7 @@ HAL_StatusTypeDef SDRAM_Initialization_Sequence(SDRAM_HandleTypeDef *hsdram)
     // 注意: WB位只影响"突发读后写入"的行为,WB=1表示单次写入
     // FMC的独立写入操作不受此限制,仍可进行32位传输
     cmd.CommandMode = FMC_SDRAM_CMD_LOAD_MODE;
-    cmd.ModeRegisterDefinition = (uint32_t)SDRAM_MODEREG_BURST_LENGTH_4 |
+    cmd.ModeRegisterDefinition = (uint32_t)SDRAM_MODEREG_BURST_LENGTH_8 |
                                   SDRAM_MODEREG_BURST_TYPE_SEQUENTIAL   |
                                   SDRAM_MODEREG_CAS_LATENCY_3           |
                                   SDRAM_MODEREG_OPERATING_MODE_STANDARD |

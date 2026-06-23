@@ -1,3 +1,3 @@
-D:/CodeGitManage/Project_Template/06_RTC/Core/Src/rtc.c:30:6:MX_RTC_Init	32	static
-D:/CodeGitManage/Project_Template/06_RTC/Core/Src/rtc.c:88:6:HAL_RTC_MspInit	64	static
-D:/CodeGitManage/Project_Template/06_RTC/Core/Src/rtc.c:115:6:HAL_RTC_MspDeInit	16	static
+D:/CodeGitManage/STM32HAL_Projects/06_RTC/Core/Src/rtc.c:30:6:MX_RTC_Init	32	static
+D:/CodeGitManage/STM32HAL_Projects/06_RTC/Core/Src/rtc.c:88:6:HAL_RTC_MspInit	64	static
+D:/CodeGitManage/STM32HAL_Projects/06_RTC/Core/Src/rtc.c:115:6:HAL_RTC_MspDeInit	16	static

@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/CodeGitManage/Project_Template/06_RTC/build/Debug"
+			"value" : "D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/Debug"
 		},
 		{
 			"name" : "06_RTC_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/CodeGitManage/Project_Template/06_RTC"
+			"value" : "D:/CodeGitManage/STM32HAL_Projects/06_RTC"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -215,7 +215,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/CodeGitManage/Project_Template/06_RTC/build/Debug"
+			"value" : "d:/CodeGitManage/STM32HAL_Projects/06_RTC/build/Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -683,7 +683,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/CodeGitManage/Project_Template/06_RTC/build/Debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -743,7 +743,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/CodeGitManage/Project_Template/06_RTC"
+			"value" : "D:/CodeGitManage/STM32HAL_Projects/06_RTC"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1255,11 +1255,11 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "The CMake toolchain file"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "FILEPATH",
-			"value" : "D:/CodeGitManage/Project_Template/06_RTC/cmake/gcc-arm-none-eabi.cmake"
+			"type" : "UNINITIALIZED",
+			"value" : "D:/CodeGitManage/STM32HAL_Projects/06_RTC/cmake/gcc-arm-none-eabi.cmake"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",

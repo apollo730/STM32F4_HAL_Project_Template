@@ -1,4 +1,4 @@
-# Install script for directory: D:/CodeGitManage/Project_Template/06_RTC/cmake/stm32cubemx
+# Install script for directory: D:/CodeGitManage/STM32HAL_Projects/06_RTC/cmake/stm32cubemx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,6 +40,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "D:/CodeGitManage/Project_Template/06_RTC/build/cmake/stm32cubemx/install_local_manifest.txt"
+  file(WRITE "D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/cmake/stm32cubemx/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

@@ -78,14 +78,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "06_RTC::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-06_RTC-Debug-54e6a563eb3a422ae1f3.json",
+					"jsonFile" : "target-06_RTC-Debug-8c4f7d650402105ebdf5.json",
 					"name" : "06_RTC",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "STM32_Drivers::@768a070a0fe75716b479",
-					"jsonFile" : "target-STM32_Drivers-Debug-aef9c4fadb483b76eee7.json",
+					"jsonFile" : "target-STM32_Drivers-Debug-fdd9c9cc5363bc28174a.json",
 					"name" : "STM32_Drivers",
 					"projectIndex" : 0
 				}
@@ -95,8 +95,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/CodeGitManage/Project_Template/06_RTC/build/Debug",
-		"source" : "D:/CodeGitManage/Project_Template/06_RTC"
+		"build" : "D:/CodeGitManage/STM32HAL_Projects/06_RTC/build/Debug",
+		"source" : "D:/CodeGitManage/STM32HAL_Projects/06_RTC"
 	},
 	"version" : 
 	{
