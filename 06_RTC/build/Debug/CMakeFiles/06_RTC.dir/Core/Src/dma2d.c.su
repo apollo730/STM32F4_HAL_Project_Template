@@ -1,3 +1,0 @@
-D:/CodeGitManage/STM32HAL_Projects/06_RTC/Core/Src/dma2d.c:30:6:MX_DMA2D_Init	8	static
-D:/CodeGitManage/STM32HAL_Projects/06_RTC/Core/Src/dma2d.c:54:6:HAL_DMA2D_MspInit	24	static
-D:/CodeGitManage/STM32HAL_Projects/06_RTC/Core/Src/dma2d.c:70:6:HAL_DMA2D_MspDeInit	16	static
