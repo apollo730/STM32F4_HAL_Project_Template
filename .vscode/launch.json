@@ -2,7 +2,7 @@
     /* 
     1.使用openocd调试器调试stm32f429开发板的配置文件，需要安装cortex-debug插件
     2.调试器会自动调用cmake构建任务，构建完成后会自动下载程序到开发板上，并在main函数入口点停止
-    3.注意：需要在系统环境变量中添加openocd的路径，或者在cortex-debug插件的设置中指定openocd的路径，否则会导致调试器无法找到openocd命令
+    3.注意：需要在user的settings.json中添加openocd的路径，否则会导致调试器无法找到openocd命令
     4.使用cmsis-dap调试器 
     */
     "version": "0.2.0",
@@ -11,7 +11,7 @@
             //当前工作目录
             "cwd": "${workspaceFolder}",
             //项目生成可执行文件
-            "executable": "./build/Debug/${workspaceFolderBasename}.elf", 
+            "executable": "./build/Debug/${command:cmake.launchTargetFilename}", 
             "name": "Debug with OpenOCD",
             "request": "launch",
             /* cppdbg = 调试电脑上跑的 C/C++ 程序

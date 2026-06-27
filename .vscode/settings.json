@@ -1,17 +1,9 @@
 {
-    "cmake.cmakePath": "cube-cmake",
-    "cmake.configureArgs": [
-        "-DCMAKE_COMMAND=cube-cmake"
-    ],
-    "cmake.preferredGenerators": [
-        "Ninja"
-    ],
-    "stm32cube-ide-clangd.path": "cube",
-    "stm32cube-ide-clangd.arguments": [
-        "starm-clangd",
-        "--query-driver=${env:CUBE_BUNDLE_PATH}/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc*",
-        "--query-driver=${env:CUBE_BUNDLE_PATH}/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-g++*"
-    ],
+    "debug.allowBreakpointsEverywhere": true,
+    "cortex-debug.armToolchainPath": "C:\\Users\\81253\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin",
+    "cortex-debug.openocdPath": "D:\\ProgramFile\\Tools\\openocd v0.12.0\\bin\\openocd.exe",
+    "extensions.ignoreRecommendations": true,
+
     "VsCodeTaskButtons.tasks": 
         [
             {
@@ -56,4 +48,91 @@
 
 
         ],    
+
+
+
+    "git.enableSmartCommit": true,
+    
+    // STM32 HAL 官方风格 Doxygen 注释配置（带星号边框 + @标签）
+    "doxdocgen.c.commentPrefix": " * ",
+    "doxdocgen.c.factoryMethodText": "Create a {name} object",
+    "doxdocgen.c.firstLine": "/**",
+    "doxdocgen.c.getterText": "Get the {name} object",
+    "doxdocgen.c.lastLine": " */",
+    "doxdocgen.c.setterText": "Set the {name} object",
+    "doxdocgen.c.triggerSequence": "/**",
+    "doxdocgen.cpp.ctorText": "Construct a new {name} object",
+    "doxdocgen.cpp.dtorText": "Destroy the {name} object",
+    "doxdocgen.cpp.tparamTemplate": "@tparam {param} ",
+    
+    // 文件头注释：完全还原 STM 官方格式
+    // "doxdocgen.file.copyrightTag": [
+    //     "@copyright Copyright (c) {year} STMicroelectronics.",
+    //     "All rights reserved."
+    // ],
+    // "doxdocgen.file.customTag": [
+    //     "@attention",
+    //     "",
+    //     "This software is licensed under terms that can be found in the LICENSE file in",
+    //     "the root directory of this software component.",
+    //     "If no LICENSE file comes with this software, it is provided AS-IS."
+    // ],
+    "doxdocgen.file.fileOrder": [
+        "file",
+        "author",
+        "brief",
+        "empty",
+        //"attention",
+        //"empty",
+        //"copyright",
+        //"empty",
+        //"custom"
+    ],
+    "doxdocgen.file.fileTemplate": "@file    {name}",
+    "doxdocgen.file.versionTag": "@version 1.0.0",
+    // 作者信息（建议配合 Git 自动读取）
+    "doxdocgen.generic.authorEmail": "812538529@qq.com",
+    "doxdocgen.generic.authorName": "apollo730",
+    "doxdocgen.generic.authorTag": "@author  {author}",
+    // 核心格式：和 STM 官方一致的 @标签风格
+    "doxdocgen.generic.boolReturnsTrueFalse": true,
+    "doxdocgen.generic.briefTemplate": "@brief   {text}",
+    "doxdocgen.generic.dateFormat": "YYYY-MM-DD",
+    "doxdocgen.generic.dateTemplate": "@date    {date}",
+    "doxdocgen.generic.generateSmartText": true,
+    "doxdocgen.generic.includeTypeAtReturn": true,
+    "doxdocgen.generic.linesToGet": 20,
+    // 注释顺序：和官方文件头/函数注释一致
+    "doxdocgen.generic.order": [
+        "brief",
+        "param",
+        "return",
+        "tparam",
+        //"attention",
+        "custom",
+        "version",
+        "author",
+        "date",
+       // "copyright"
+    ],
+    "doxdocgen.generic.customTags": [],
+    "doxdocgen.generic.paramTemplate": "@param   {param} ",
+    "doxdocgen.generic.returnTemplate": "@return  {type} ",
+    "doxdocgen.generic.splitCasingSmartText": true,
+    "doxdocgen.generic.filteredKeywords": [],
+    // 开启 Git 自动读取（可选，方便个人项目）
+    "doxdocgen.generic.useGitUserName": false,
+    "doxdocgen.generic.useGitUserEmail": false,
+    "doxdocgen.generic.commandSuggestion": true,
+    "doxdocgen.generic.commandSuggestionAddPrefix": false,
+    "cmake.cmakePath": "cube-cmake",
+    "cmake.configureArgs": [
+        "-DCMAKE_COMMAND=cube-cmake"
+    ],
+    "stm32cube-ide-clangd.path": "cube",
+    "stm32cube-ide-clangd.arguments": [
+        "starm-clangd",
+        "--query-driver=${env:CUBE_BUNDLE_PATH}/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc*",
+        "--query-driver=${env:CUBE_BUNDLE_PATH}/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-g++*"
+    ]
 }

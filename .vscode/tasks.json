@@ -35,14 +35,14 @@
         {
             "label": "OpenOCD: Flash Download",
             "type": "shell",
-            "command": "D:\\Program Files\\Microsoft VS Code\\openocd v0.12.0\\bin\\openocd.exe",
+            "command": "D:\\ProgramFile\\Tools\\openocd v0.12.0\\bin\\openocd.exe",
             "args": [
                 "-f",
                 "interface/cmsis-dap.cfg",
                 "-f",
                 "target/stm32f4x.cfg",
                 "-c",
-                "program build/Debug/${workspaceFolderBasename}.elf verify reset exit"
+                "program build/Debug/${command:cmake.launchTargetFilename} verify reset exit"
             ],
             "group": {
                 "kind": "build",
