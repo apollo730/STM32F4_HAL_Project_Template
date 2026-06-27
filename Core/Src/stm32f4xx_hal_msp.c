@@ -30,7 +30,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN Define */
-#define RTC_INIT_MARKER  0x32F2
+
 /* USER CODE END Define */
 
 /* Private macro -------------------------------------------------------------*/

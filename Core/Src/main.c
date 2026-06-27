@@ -101,15 +101,9 @@ int main(void)
   MX_FMC_Init();
   MX_LTDC_Init();
   MX_DMA2D_Init();
-  MX_RTC_Init();
   /* USER CODE BEGIN 2 */
   SDRAM_Initialization_Sequence(&hsdram2);
-
-#if 0 // Test LCD Driver
-  BSP_LCD_Test();
-#endif
-
-  // Test BSP_LCD_Printf
+  /* USER CODE BEGIN 2 */
   BSP_LCD_SetOrientation(0);
   BSP_LCD_SetPixelFormat(LCD_PIXEL_FORMAT_RGB565);
   BSP_LCD_SetActiveLayer(LCD_LAYER_FG);
@@ -118,12 +112,22 @@ int main(void)
   BSP_LCD_SetBgColor(COLOR_DARK_BLUE);
   BSP_LCD_SetColor(COLOR_RED);
   BSP_LCD_SetFont(&Font24);
+  MX_RTC_Init();
+  /* USER CODE BEGIN 3 */
+  
+  
+#if 0 // Test LCD Driver
+  BSP_LCD_Test();
+#endif
+
+  // Test BSP_LCD_Printf
+ 
   BSP_LCD_Printf("LCD Printf Test\n");
   RTC_TimeTypeDef RTC_Time = {0};
   RTC_DateTypeDef RTC_Date = {0}; // 必须定义日期结构体
   uint16_t x = lcd_cursor_x;
   uint16_t y = lcd_cursor_y;
-  /* USER CODE END 2 */
+  /* USER CODE END 3 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
@@ -147,9 +151,9 @@ int main(void)
 
   /* USER CODE END WHILE */
 
-  /* USER CODE BEGIN 3 */
+  /* USER CODE BEGIN 4 */
 
-  /* USER CODE END 3 */
+  /* USER CODE END 4 */
 }
 
 /**
@@ -204,9 +208,9 @@ void SystemClock_Config(void)
   }
 }
 
-/* USER CODE BEGIN 4 */
+/* USER CODE BEGIN 5 */
 
-/* USER CODE END 4 */
+/* USER CODE END 5 */
 
 /**
  * @brief  This function is executed in case of error occurrence.
