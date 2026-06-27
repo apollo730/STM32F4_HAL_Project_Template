@@ -61,7 +61,7 @@ void MX_RTC_Init(void)
   /* USER CODE BEGIN Check_RTC_BKUP */
   uint32_t marker = HAL_RTCEx_BKUPRead(&hrtc, RTC_BKP_DR0);
   printf("\n----- RTC Status Check -----\n");
-  printf("Backup Register RTC_BKP_DR0: 0x%08X\n", marker);
+  printf("Backup Register RTC_BKP_DR0: 0x%08lX\n", marker);
   printf("Expected Marker: 0x%08X\n", RTC_INIT_MARKER);
 
   if (marker != RTC_INIT_MARKER) 
