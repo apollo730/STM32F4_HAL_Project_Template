@@ -113,18 +113,16 @@ int main(void)
   BSP_LCD_SetOrientation(0);
   BSP_LCD_SetPixelFormat(LCD_PIXEL_FORMAT_RGB565);
   BSP_LCD_SetActiveLayer(LCD_LAYER_FG);
-  BSP_LCD_FillForeground(COLOR_BLACK);
+  BSP_LCD_FillForeground(COLOR_DARK_BLUE);
   BSP_LCD_SetCursor(0, 0);
-  BSP_LCD_SetBgColor(COLOR_BLACK);
+  BSP_LCD_SetBgColor(COLOR_DARK_BLUE);
   BSP_LCD_SetColor(COLOR_RED);
-  BSP_LCD_SetFont(&Font16);
-
+  BSP_LCD_SetFont(&Font24);
   BSP_LCD_Printf("LCD Printf Test\n");
-  printf("hello world\n");
-  printf("this is a test string.\n");
   RTC_TimeTypeDef RTC_Time = {0};
   RTC_DateTypeDef RTC_Date = {0}; // 必须定义日期结构体
-
+  uint16_t x = lcd_cursor_x;
+  uint16_t y = lcd_cursor_y;
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -136,17 +134,15 @@ int main(void)
     HAL_RTC_GetTime(&hrtc, &RTC_Time, RTC_FORMAT_BIN);
     HAL_RTC_GetDate(&hrtc, &RTC_Date, RTC_FORMAT_BIN);
     // 显示RTC时间
-
     BSP_LCD_SetColor(COLOR_RED);
     BSP_LCD_SetFont(&Font24);
+    BSP_LCD_SetCursor(x, y);
     BSP_LCD_Printf("Time: %02d:%02d:%02d\n", RTC_Time.Hours, RTC_Time.Minutes, RTC_Time.Seconds);
-
-    BSP_LCD_SetColor(COLOR_GREEN);
     BSP_LCD_Printf("Date: 20%02d-%02d-%02d\n", RTC_Date.Year, RTC_Date.Month, RTC_Date.Date);
     HAL_Delay(1000);
 
-    printf("Hello, LCD!\n");
-    printf("Value: %d\n", 321456);
+    
+    
   }
 
   /* USER CODE END WHILE */

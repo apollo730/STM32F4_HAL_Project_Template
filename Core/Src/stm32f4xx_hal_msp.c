@@ -30,7 +30,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN Define */
-
+#define RTC_INIT_MARKER  0x32F2
 /* USER CODE END Define */
 
 /* Private macro -------------------------------------------------------------*/
@@ -72,7 +72,7 @@ void HAL_MspInit(void)
   /* System interrupt init*/
 
   /* USER CODE BEGIN MspInit 1 */
-
+  HAL_PWR_EnableBkUpAccess();
   /* USER CODE END MspInit 1 */
 }
 

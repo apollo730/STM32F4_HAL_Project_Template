@@ -19,9 +19,10 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "rtc.h"
+#include "stm32f4xx_hal_rtc_ex.h"
 
 /* USER CODE BEGIN 0 */
-
+#define RTC_INIT_MARKER  0x32F2
 /* USER CODE END 0 */
 
 RTC_HandleTypeDef hrtc;
@@ -31,7 +32,10 @@ void MX_RTC_Init(void)
 {
 
   /* USER CODE BEGIN RTC_Init 0 */
+  uint32_t marker = HAL_RTCEx_BKUPRead(&hrtc, RTC_BKP_DR0);
 
+  if (marker != RTC_INIT_MARKER) 
+  {
   /* USER CODE END RTC_Init 0 */
 
   RTC_TimeTypeDef sTime = {0};
@@ -61,8 +65,8 @@ void MX_RTC_Init(void)
 
   /** Initialize RTC and set the Time and Date
   */
-  sTime.Hours = 0x0;
-  sTime.Minutes = 0x0;
+  sTime.Hours = 0x21;
+  sTime.Minutes = 0x35;
   sTime.Seconds = 0x0;
   sTime.DayLightSaving = RTC_DAYLIGHTSAVING_NONE;
   sTime.StoreOperation = RTC_STOREOPERATION_RESET;
@@ -70,10 +74,10 @@ void MX_RTC_Init(void)
   {
     Error_Handler();
   }
-  sDate.WeekDay = RTC_WEEKDAY_MONDAY;
-  sDate.Month = RTC_MONTH_JANUARY;
-  sDate.Date = 0x1;
-  sDate.Year = 0x0;
+  sDate.WeekDay = RTC_WEEKDAY_SATURDAY;
+  sDate.Month = RTC_MONTH_JUNE;
+  sDate.Date = 0x27;
+  sDate.Year = 0x26;
 
   if (HAL_RTC_SetDate(&hrtc, &sDate, RTC_FORMAT_BCD) != HAL_OK)
   {
@@ -81,6 +85,12 @@ void MX_RTC_Init(void)
   }
   /* USER CODE BEGIN RTC_Init 2 */
 
+  HAL_RTCEx_BKUPWrite(&hrtc, RTC_BKP_DR0, RTC_INIT_MARKER);
+}
+else
+{
+
+}
   /* USER CODE END RTC_Init 2 */
 
 }
