@@ -19,8 +19,9 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "rtc.h"
-#include <stdio.h>
+
 /* USER CODE BEGIN 0 */
+#include <stdio.h>
 #define RTC_INIT_MARKER  0x00000001U // Define a marker for RTC initialization
 
 /* USER CODE END 0 */
@@ -72,8 +73,8 @@ void MX_RTC_Init(void)
 
   /** Initialize RTC and set the Time and Date
   */
-  sTime.Hours = 0x18;
-  sTime.Minutes = 0x53;
+  sTime.Hours = 0x0;
+  sTime.Minutes = 0x0;
   sTime.Seconds = 0x0;
   sTime.DayLightSaving = RTC_DAYLIGHTSAVING_NONE;
   sTime.StoreOperation = RTC_STOREOPERATION_RESET;
@@ -81,10 +82,10 @@ void MX_RTC_Init(void)
   {
     Error_Handler();
   }
-  sDate.WeekDay = RTC_WEEKDAY_SUNDAY;
-  sDate.Month = RTC_MONTH_JUNE;
-  sDate.Date = 0x28;
-  sDate.Year = 0x26;
+  sDate.WeekDay = RTC_WEEKDAY_MONDAY;
+  sDate.Month = RTC_MONTH_JANUARY;
+  sDate.Date = 0x1;
+  sDate.Year = 0x0;
 
   if (HAL_RTC_SetDate(&hrtc, &sDate, RTC_FORMAT_BCD) != HAL_OK)
   {

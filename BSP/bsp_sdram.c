@@ -16,13 +16,13 @@ HAL_StatusTypeDef SDRAM_Initialization_Sequence(SDRAM_HandleTypeDef *hsdram)
     // 步骤2: 预充电所有Bank
     cmd.CommandMode = FMC_SDRAM_CMD_PALL;
     HAL_SDRAM_SendCommand(hsdram, &cmd, 0xFFFF);
-    
 
-    // 步骤3: 自动刷新 4次
+    // 步骤3: 自动刷新 6次
     cmd.CommandMode = FMC_SDRAM_CMD_AUTOREFRESH_MODE;
-    cmd.AutoRefreshNumber = 4;
+    cmd.CommandTarget = FMC_SDRAM_CMD_TARGET_BANK2;
+    cmd.AutoRefreshNumber = 2; // 修改点 1: 4 改为 8
+    cmd.ModeRegisterDefinition = 0;
     HAL_SDRAM_SendCommand(hsdram, &cmd, 0xFFFF);
-    
 
     // 步骤4: 设置模式寄存器(W9825G6KH: CAS=3, Burst=4, WB=1)
     // 注意: WB位只影响"突发读后写入"的行为,WB=1表示单次写入
@@ -32,10 +32,17 @@ HAL_StatusTypeDef SDRAM_Initialization_Sequence(SDRAM_HandleTypeDef *hsdram)
                                   SDRAM_MODEREG_BURST_TYPE_SEQUENTIAL   |
                                   SDRAM_MODEREG_CAS_LATENCY_3           |
                                   SDRAM_MODEREG_OPERATING_MODE_STANDARD |
-                                  SDRAM_MODEREG_WRITEBURST_MODE_SINGLE; // WB=1 (single write after burst read)       
+                                  SDRAM_MODEREG_WRITEBURST_MODE_SINGLE; // WB=1 (single write after burst read)
     HAL_SDRAM_SendCommand(hsdram, &cmd, 0xFFFF);
 
-    // 步骤5: 设置自动刷新速率
+    /// 步骤5: 自动刷新 2次 
+    cmd.CommandMode = FMC_SDRAM_CMD_AUTOREFRESH_MODE;
+    cmd.CommandTarget = FMC_SDRAM_CMD_TARGET_BANK2;
+    cmd.AutoRefreshNumber = 2; 
+    cmd.ModeRegisterDefinition = 0;
+    HAL_SDRAM_SendCommand(hsdram, &cmd, 0xFFFF);
+
+    // 步骤6: 设置自动刷新速率
     HAL_SDRAM_SetAutoRefreshNumber(hsdram, SDRAM_REFRESH_COUNT);
     
     // 验证初始化是否成功

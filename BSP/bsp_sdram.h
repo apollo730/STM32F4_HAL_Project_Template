@@ -10,7 +10,7 @@
 
 
 
-#define SDRAM_REFRESH_COUNT  680   // 90MHz 刷新计数 通用值
+#define SDRAM_REFRESH_COUNT  600   // 90MHz 刷新计数680 通用值
 #define SDRAM_BASE_ADDR    0xD0000000UL // Bank2基地址
 
 /**
