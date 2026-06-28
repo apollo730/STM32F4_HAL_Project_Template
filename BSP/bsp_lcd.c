@@ -395,26 +395,64 @@ HAL_StatusTypeDef BSP_LCD_DMA2D_Fill(uint32_t addr, uint16_t width, uint16_t hei
         return HAL_ERROR;
     }
 
-    /* 配置 DMA2D 句柄（使用局部句柄避免干扰外部句柄状态） */
-    DMA2D_HandleTypeDef hdma2d_fill;
-    hdma2d_fill.Instance = DMA2D;
-    hdma2d_fill.Init.Mode = DMA2D_R2M;                           /* 寄存器到内存模式 */
-    hdma2d_fill.Init.ColorMode = lcd_dma2d_output_fmt;           /* 当前像素格式 */
-    hdma2d_fill.Init.OutputOffset = (LCD_PHYS_WIDTH - width);    /* 行偏移 */
-    if (HAL_DMA2D_Init(&hdma2d_fill) != HAL_OK) {
-        return HAL_ERROR;
+    
+    
+    // //以下为修复前的版本（有bug，颜色显示不正确）
+    // /* 配置 DMA2D 句柄（使用局部句柄避免干扰外部句柄状态） */
+    // DMA2D_HandleTypeDef hdma2d_fill;
+    // hdma2d_fill.Instance = DMA2D;
+    // hdma2d_fill.Init.Mode = DMA2D_R2M;                           /* 寄存器到内存模式 */
+    // hdma2d_fill.Init.ColorMode = lcd_dma2d_output_fmt;           /* 当前像素格式 */
+    // hdma2d_fill.Init.OutputOffset = (LCD_PHYS_WIDTH - width);    /* 行偏移 */
+    // if (HAL_DMA2D_Init(&hdma2d_fill) != HAL_OK) {
+    //     return HAL_ERROR;
+    // }
+
+    // /* 启动 DMA2D 传输（阻塞模式，自动等待完成） */
+    // if (HAL_DMA2D_Start(&hdma2d_fill, color, addr, width, height) != HAL_OK) {
+    //     return HAL_ERROR;
+    // }
+
+    // /* 等待传输完成，超时保护 */
+    // if (HAL_DMA2D_PollForTransfer(&hdma2d_fill, HAL_MAX_DELAY) != HAL_OK) {
+    //     /* 超时或错误：中止传输并返回错误 */
+    //     HAL_DMA2D_Abort(&hdma2d_fill);
+    //     return HAL_TIMEOUT;
+    // }  
+    
+    
+    /* 修复后的版本（正确实现）
+    * 配置 DMA2D 句柄（使用局部句柄避免干扰外部句柄状态）
+    */
+     /* 确保 DMA2D 时钟已使能（在初始化中已做） */
+    
+    /* 等待 DMA2D 空闲 */
+    uint32_t timeout = DMA2D_TIMEOUT_MS;
+    while (DMA2D->CR & DMA2D_CR_START) {
+        if (--timeout == 0) return HAL_TIMEOUT;
+        HAL_Delay(1);
     }
 
-    /* 启动 DMA2D 传输（阻塞模式，自动等待完成） */
-    if (HAL_DMA2D_Start(&hdma2d_fill, color, addr, width, height) != HAL_OK) {
-        return HAL_ERROR;
-    }
+    /* 配置 DMA2D 寄存器 */
+    DMA2D->CR = 0x00010000UL;                    /* 先复位 */
+    DMA2D->CR = DMA2D_R2M;                       /* 寄存器到内存模式 */
+    DMA2D->OPFCCR = lcd_dma2d_output_fmt;        /* 输出格式，对于 RGB565 为 2 */
+    DMA2D->OOR = (LCD_PHYS_WIDTH - width);       /* 行偏移（像素） */
+    DMA2D->OMAR = addr;                          /* 目标地址 */
+    DMA2D->NLR = (width << 16) | height;         /* 宽度和高度 */
+    DMA2D->OCOLR = color;                        /* 颜色值（对于 RGB565，低 16 位有效） */
 
-    /* 等待传输完成，超时保护 */
-    if (HAL_DMA2D_PollForTransfer(&hdma2d_fill, HAL_MAX_DELAY) != HAL_OK) {
-        /* 超时或错误：中止传输并返回错误 */
-        HAL_DMA2D_Abort(&hdma2d_fill);
-        return HAL_TIMEOUT;
+    /* 启动传输 */
+    DMA2D->CR |= DMA2D_CR_START;
+
+    /* 轮询等待完成 */
+    timeout = DMA2D_TIMEOUT_MS;
+    while (DMA2D->CR & DMA2D_CR_START) {
+        if (--timeout == 0) {
+            DMA2D->CR |= DMA2D_CR_ABORT;          /* 超时则中止 */
+            return HAL_TIMEOUT;
+        }
+        HAL_Delay(1);
     }
 
     return HAL_OK;

@@ -19,11 +19,9 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "rtc.h"
-#include "stm32f4xx_hal_rtc_ex.h"
 #include <stdio.h>
-
 /* USER CODE BEGIN 0 */
-#define RTC_INIT_MARKER  0x12341234U // Define a marker for RTC initialization
+#define RTC_INIT_MARKER  0x00000001U // Define a marker for RTC initialization
 
 /* USER CODE END 0 */
 
@@ -68,31 +66,31 @@ void MX_RTC_Init(void)
   {
     printf("Status: First boot or backup data lost\n");
     printf("Action: Initializing RTC with default time\n");
-    HAL_RTCEx_BKUPWrite(&hrtc, RTC_BKP_DR0, 0x12341234);
+    HAL_RTCEx_BKUPWrite(&hrtc, RTC_BKP_DR0, 0x00000001);
     
   /* USER CODE END Check_RTC_BKUP */
 
   /** Initialize RTC and set the Time and Date
   */
-    sTime.Hours = 0x01;
-    sTime.Minutes = 0x26;
-    sTime.Seconds = 0x30;
-    sTime.DayLightSaving = RTC_DAYLIGHTSAVING_NONE;
-    sTime.StoreOperation = RTC_STOREOPERATION_RESET;
-    if (HAL_RTC_SetTime(&hrtc, &sTime, RTC_FORMAT_BCD) != HAL_OK)
-    {
-      Error_Handler();
-    }
-    sDate.WeekDay = RTC_WEEKDAY_SATURDAY;
-    sDate.Month = RTC_MONTH_JUNE;
-    sDate.Date = 0x28;
-    sDate.Year = 0x26;
+  sTime.Hours = 0x18;
+  sTime.Minutes = 0x53;
+  sTime.Seconds = 0x0;
+  sTime.DayLightSaving = RTC_DAYLIGHTSAVING_NONE;
+  sTime.StoreOperation = RTC_STOREOPERATION_RESET;
+  if (HAL_RTC_SetTime(&hrtc, &sTime, RTC_FORMAT_BCD) != HAL_OK)
+  {
+    Error_Handler();
+  }
+  sDate.WeekDay = RTC_WEEKDAY_SUNDAY;
+  sDate.Month = RTC_MONTH_JUNE;
+  sDate.Date = 0x28;
+  sDate.Year = 0x26;
 
-    if (HAL_RTC_SetDate(&hrtc, &sDate, RTC_FORMAT_BCD) != HAL_OK)
-    {
-      Error_Handler();
-    }
-    /* USER CODE BEGIN RTC_Init 2 */
+  if (HAL_RTC_SetDate(&hrtc, &sDate, RTC_FORMAT_BCD) != HAL_OK)
+  {
+    Error_Handler();
+  }
+  /* USER CODE BEGIN RTC_Init 2 */
   
 }
 else
